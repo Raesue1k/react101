@@ -1,0 +1,16 @@
+<div id="root">
+  <div data-reactroot>
+    <h1>Hello, world!</h1>
+    <h2>
+      <!-- react-text: 4 -->
+      "It is "
+      <!-- /react-text -->
+      <!-- react-text: 5 -->
+      "07:46:50 PM"
+      <!-- /react-text -->
+      <!-- react-text: 6 -->
+      ".1"
+      <!-- /react-text -->
+    </h2>
+  </div>
+</div>
